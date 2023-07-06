@@ -1,0 +1,165 @@
+{
+  "contacts": [
+    {
+      "name": "Rajesh Kumar",
+      "phone": "+91 9876543210",
+      "address": "123, Ganga Nagar, New Delhi, India",
+      "occupation": "Engineer",
+      "email": "rajeshkumar@example.com"
+    },
+    {
+      "name": "Priya Sharma",
+      "phone": "+91 8765432109",
+      "address": "456, Rosewood Colony, Mumbai, India",
+      "occupation": "Teacher",
+      "email": "priyasharma@example.com"
+    },
+    {
+      "name": "Amit Patel",
+      "phone": "+91 7654321098",
+      "address": "789, Lotus Lane, Ahmedabad, India",
+      "occupation": "Doctor",
+      "email": "amitpatel@example.com"
+    },
+    {
+      "name": "Anjali Reddy",
+      "phone": "+91 6543210987",
+      "address": "321, Tulip Road, Bengaluru, India",
+      "occupation": "Nurse",
+      "email": "anjalireddy@example.com"
+    },
+    {
+      "name": "Vikram Verma",
+      "phone": "+91 5432109876",
+      "address": "654, Jasmine Colony, Kolkata, India",
+      "occupation": "Electrician",
+      "email": "vikramverma@example.com"
+    },
+    {
+      "name": "Neha Desai",
+      "phone": "+91 4321098765",
+      "address": "862, Magnolia Street, Pune, India",
+      "occupation": "Accountant",
+      "email": "nehadesai@example.com"
+    },
+    {
+      "name": "Arjun Singh",
+      "phone": "+91 8765432108",
+      "address": "789, Lotus Lane, Jaipur, India",
+      "occupation": "Architect",
+      "email": "arjunsingh@example.com"
+    },
+    {
+      "name": "Aishwarya Gupta",
+      "phone": "+91 7654321097",
+      "address": "654, Lotus Colony, Lucknow, India",
+      "occupation": "Lawyer",
+      "email": "aishwaryagupta@example.com"
+    },
+    {
+      "name": "Mohit Mehta",
+      "phone": "+91 6543210986",
+      "address": "321, Rosewood Road, Chandigarh, India",
+      "occupation": "Graphic Designer",
+      "email": "mohitmehta@example.com"
+    },
+    {
+      "name": "Kavita Sharma",
+      "phone": "+91 5432109875",
+      "address": "654, Jasmine Colony, Hyderabad, India",
+      "occupation": "Software Engineer",
+      "email": "kavitasharma@example.com"
+    },
+    {
+      "name": "Rahul Verma",
+      "phone": "+91 4321098764",
+      "address": "862, Magnolia Street, Chennai, India",
+      "occupation": "Marketing Executive",
+      "email": "rahulverma@example.com"
+    },
+    {
+      "name": "Pooja Malhotra",
+      "phone": "+91 9876543219",
+      "address": "123, Lotus Lane, Gurugram, India",
+      "occupation": "Fashion Designer",
+      "email": "poojamalhotra@example.com",
+    },
+    {
+      "name": "Arun Sharma",
+      "phone": "+91 8765432106",
+      "address": "456, Rosewood Colony, Bhopal, India",
+      "occupation": "Writer",
+      "email": "arunsharma@example.com"
+    },
+    {
+      "name": "Swati Verma",
+      "phone": "+91 7654321095",
+      "address": "789, Jasmine Road, Indore, India",
+      "occupation": "HR Manager",
+      "email": "swativerma@example.com"
+    },
+    {
+      "name": "Manish Gupta",
+      "phone": "+91 6543210984",
+      "address": "321, Lotus Lane, Kanpur, India",
+      "occupation": "Banker",
+      "email": "manishgupta@example.com"
+    },
+    {
+      "name": "Riya Kapoor",
+      "phone": "+91 5432109873",
+      "address": "654, Rosewood Colony, Ahmedabad, India",
+      "occupation": "Chef",
+      "email": "riyakapoor@example.com"
+    },
+    {
+      "name": "Sanjay Joshi",
+      "phone": "+91 4321098762",
+      "address": "862, Tulip Road, Nagpur, India",
+      "occupation": "Journalist",
+      "email": "sanjayjoshi@example.com"
+    },
+    {
+      "name": "Anita Gupta",
+      "phone": "+91 9876543215",
+      "address": "123, Jasmine Colony, Chandigarh, India",
+      "occupation": "Interior Designer",
+      "email": "anitagupta@example.com"
+    },
+    {
+      "name": "Vivek Mehta",
+      "phone": "+91 8765432104",
+      "address": "456, Lotus Lane, Jaipur, India",
+      "occupation": "Photographer",
+      "email": "vivekmehta@example.com"
+    },
+    {
+      "name": "Riya Patel",
+      "phone": "+91 7654321093",
+      "address": "789, Rosewood Colony, Mumbai, India",
+      "occupation": "Event Planner",
+      "email": "riyapatel@example.com"
+    },
+    {
+      "name": "Kunal Saxena",
+      "phone": "+91 6543210982",
+      "address": "321, Jasmine Road, Bengaluru, India",
+      "occupation": "Financial Analyst",
+      "email": "kunalsaxena@example.com"
+    },
+    {
+      "name": "Sneha Sharma",
+      "phone": "+91 5432109871",
+      "address": "654, Lotus Lane, Hyderabad, India",
+      "occupation": "Digital Marketer",
+      "email": "snehasharma@example.com"
+    },
+    {
+      "name": "Gaurav Singh",
+      "phone": "+91 4321098760",
+      "address": "862, Tulip Road, Kolkata, India",
+      "occupation": "Entrepreneur",
+      "email": "gauravsingh@example.com"
+    }
+  ]
+}
